@@ -9,11 +9,11 @@
   <tr>
     <td width="65%" valign="top">
 
-- 🌱 Currently learning **JavaScript, TypeScript, React, Node.js**
+- 🌱 Currently learning **JavaScript, React, Node.js, TypeScript**
 - 🧠 Practicing **DSA daily** to strengthen problem-solving fundamentals
 - 🎯 Focused on **consistency over speed**
-- 📍 Tamil Nadu, India  
-- 🌐 Portfolio: Updating soon
+-  📍 Tamil Nadu, India  
+- 🌐 Portfolio: https://your-portfolio-link
 - 🚀 Aspiring to build scalable, real-world applications
 
     </td>
@@ -42,6 +42,41 @@
 
 ---
 
+
+## 📌 Featured Projects
+
+🏠 Home Renovation Tracker — Frontend Project
+
+A web application to manage renovation tasks, expenses, and timelines with a clean, structured UI.
+Focused on client-side logic and user-friendly task tracking.
+
+Tech Stack: HTML, CSS, JavaScript
+🔗 Repo: https://github.com/manojgit18/Home-Renovation-Tracker-Management
+
+🔗 Live: https://homereset.netlify.app/
+
+💬 Synapse – Real-Time Chat Application — Frontend + Services
+
+A real-time chat application with authentication, live messaging, and an AI-powered assistant.
+Supports interactive conversations with an integrated AI chatbot (NeuronAI).
+
+Tech Stack: React, Firebase, Vite, Google Gemini AI
+🔗 Repo: https://github.com/manojgit18/Synapse-Chat-App
+
+🔗 Live: https://synapse-chat-app.netlify.app/
+
+📊 Habitflow – Habit & Lifestyle Tracker — Full-Stack Project
+
+A habit-tracking application with calorie tracking and AI-based chat support for lifestyle monitoring.
+Designed to help users build and maintain healthy habits through interactive features.
+
+Tech Stack: MERN, Firebase, Google Gemini AI
+🔗 Repo: https://github.com/malbroo96/HabitFlow-project
+
+🔗 Live: https://habit-flow-new.vercel.app/login
+
+---
+
 ## 📊 LeetCode Stats
 
 <p align="center">
@@ -49,17 +84,6 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
-*(Projects will be added soon)*
-
-- HTML / CSS / JavaScript Project  
-- React Project  
-- MERN Stack Project  
-- MERN Stack Project  
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">

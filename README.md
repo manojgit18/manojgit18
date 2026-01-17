@@ -74,21 +74,6 @@
 
 </div>
 
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=manojgit18&theme=radical)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manojgit18&theme=onedark&no-frame=true" alt="GitHub Trophies" />
-
-</div>
 
 ---
 

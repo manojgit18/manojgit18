@@ -75,8 +75,8 @@
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=manojgit18&theme=tokyonight&hide_border=true)](https://github.com/manojgit18)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=manojgit18&theme=radical)
 
 </div>
 
@@ -86,9 +86,7 @@
 
 <div align="center">
 
-<a href="https://github.com/manojgit18">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojgit18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=manojgit18&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 
 </div>
 

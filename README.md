@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manojkumar R</h1>
-<h3 align="center">Aspiring Full Stack Developer | JavaScript | MERN</h3>
+<div align="center">
+  
+# Hi 👋, I'm Manojkumar R
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;JavaScript+%7C+MERN+Stack;Building+Real-World+Applications;Always+Learning%2C+Always+Improving)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=manojgit18&color=blue&style=flat-square)
+
+</div>
 
 ---
 
@@ -7,18 +14,21 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-
+    <td width="55%" valign="top">
+      
 - 🌱 Currently learning **JavaScript, React, Node.js, TypeScript**
 - 🧠 Practicing **DSA daily** to strengthen problem-solving fundamentals
 - 🎯 Focused on **consistency over speed**
--  📍 Tamil Nadu, India  
-- 🌐 Portfolio: https://your-portfolio-link
-- 🚀 Aspiring to build scalable, real-world applications
-
+- 📍 Based in **Tamil Nadu, India**
+- 🌐 Portfolio: [**View Portfolio**](https://your-portfolio-link)
+- 🚀 Aspiring to build **scalable, real-world applications**
+- 💡 Passionate about **clean code** and **best practices**
+      
     </td>
-    <td width="30%" align="center" valign="centre">
-      <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" height="150"/>
+    <td width="45%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="100%"/>
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Building+the+future;one+line+of+code+at+a+time" alt="Typing SVG" />
     </td>
   </tr>
 </table>
@@ -27,76 +37,139 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" title="GitHub"/>
-</p>
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
+## 📊 GitHub Statistics
 
-## 📌 Featured Projects
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojgit18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-🏠 Home Renovation Tracker — Frontend Project
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojgit18&theme=tokyonight&hide_border=true)
 
-A web application to manage renovation tasks, expenses, and timelines with a clean, structured UI.
-Focused on client-side logic and user-friendly task tracking.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojgit18&layout=compact&theme=tokyonight&hide_border=true)
 
-Tech Stack: HTML, CSS, JavaScript
-🔗 Repo: https://github.com/manojgit18/Home-Renovation-Tracker-Management
-
-🔗 Live: https://homereset.netlify.app/
-
-💬 Synapse – Real-Time Chat Application — Frontend + Services
-
-A real-time chat application with authentication, live messaging, and an AI-powered assistant.
-Supports interactive conversations with an integrated AI chatbot (NeuronAI).
-
-Tech Stack: React, Firebase, Vite, Google Gemini AI
-🔗 Repo: https://github.com/manojgit18/Synapse-Chat-App
-
-🔗 Live: https://synapse-chat-app.netlify.app/
-
-📊 Habitflow – Habit & Lifestyle Tracker — Full-Stack Project
-
-A habit-tracking application with calorie tracking and AI-based chat support for lifestyle monitoring.
-Designed to help users build and maintain healthy habits through interactive features.
-
-Tech Stack: MERN, Firebase, Google Gemini AI
-🔗 Repo: https://github.com/malbroo96/HabitFlow-project
-
-🔗 Live: https://habit-flow-new.vercel.app/login
+</div>
 
 ---
 
-## 📊 LeetCode Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/manojcodesnow?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
+<div align="center">
+
+### 🏠 Home Renovation Tracker
+**Frontend Project**
+
+A web application to manage renovation tasks, expenses, and timelines with a clean, structured UI. Focused on client-side logic and user-friendly task tracking.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/manojgit18/Home-Renovation-Tracker-Management)
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://homereset.netlify.app/)
 
 ---
+
+### 💬 Synapse – Real-Time Chat Application
+**Frontend + Services**
+
+A real-time chat application with authentication, live messaging, and an AI-powered assistant. Supports interactive conversations with an integrated AI chatbot (NeuronAI).
+
+**Tech Stack:** `React` `Firebase` `Vite` `Google Gemini AI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/manojgit18/Synapse-Chat-App)
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://synapse-chat-app.netlify.app/)
+
+---
+
+### 📊 Habitflow – Habit & Lifestyle Tracker
+**Full-Stack Project**
+
+A habit-tracking application with calorie tracking and AI-based chat support for lifestyle monitoring. Designed to help users build and maintain healthy habits through interactive features.
+
+**Tech Stack:** `MERN` `Firebase` `Google Gemini AI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/malbroo96/HabitFlow-project)
+[![Live](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://habit-flow-new.vercel.app/login)
+
+</div>
+
+---
+
+## 💻 LeetCode Stats
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/manojcodesnow?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/manojcodesnow/)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manojgit18&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/manojgit18)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojgit18&theme=tokyo-night&hide_border=true)](https://github.com/manojgit18)
+
+---
+
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:manojmaverick96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/manojkumar-r-7ab7a6312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmaverick96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumar-r-7ab7a6312)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link)
+
+</div>
 
 ---
 
-<p align="center">
-⭐ <i>Always learning, always improving.</i>
-</p>
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐ **Always learning, always improving.** ⭐
+
+*"The only way to do great work is to love what you do."*
+
+[![GitHub followers](https://img.shields.io/github/followers/manojgit18?style=social)](https://github.com/manojgit18)
+[![GitHub stars](https://img.shields.io/github/stars/manojgit18?style=social)](https://github.com/manojgit18)
+
+</div>

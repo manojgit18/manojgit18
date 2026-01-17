@@ -20,7 +20,7 @@
 - 🧠 Practicing **DSA daily** to strengthen problem-solving fundamentals
 - 🎯 Focused on **consistency over speed**
 - 📍 Based in **Tamil Nadu, India**
-- 🌐 Portfolio: [**View Portfolio**](https://your-portfolio-link)
+- 🌐 Portfolio: [**View Portfolio**](https://manojkumarr-portfolio.netlify.app/)
 - 🚀 Aspiring to build **scalable, real-world applications**
 - 💡 Passionate about **clean code** and **best practices**
       
@@ -66,12 +66,29 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+<a href="https://github.com/manojgit18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manojgit18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manojgit18&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojgit18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manojgit18&theme=tokyonight&hide_border=true)](https://github.com/manojgit18)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojgit18&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojgit18&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/manojgit18">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojgit18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -129,19 +146,13 @@ A habit-tracking application with calorie tracking and AI-based chat support for
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manojgit18&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/manojgit18)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojgit18&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/manojgit18)
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojgit18&theme=tokyo-night&hide_border=true)](https://github.com/manojgit18)
 
 ---
 
@@ -151,7 +162,8 @@ A habit-tracking application with calorie tracking and AI-based chat support for
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojmaverick96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumar-r-7ab7a6312)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://manojkumarr-portfolio.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/manojcodesnow/)
 
 </div>
 
@@ -165,11 +177,24 @@ A habit-tracking application with calorie tracking and AI-based chat support for
 
 ---
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ⭐ **Always learning, always improving.** ⭐
 
-*"The only way to do great work is to love what you do."*
+*"The only way to do great work is to love what you do." - Steve Jobs*
+
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/manojgit18?style=social)](https://github.com/manojgit18)
 [![GitHub stars](https://img.shields.io/github/stars/manojgit18?style=social)](https://github.com/manojgit18)
+
+<br/>
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me!** 🚀
 
 </div>

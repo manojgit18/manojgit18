@@ -91,15 +91,15 @@ A real-time chat application with authentication, live messaging, and an AI-powe
 
 ---
 
-### 📊 Habitflow – Habit & Lifestyle Tracker
+### 📝 Quick Notes – Full Stack Notes Application
 **Full-Stack Project**
 
-A habit-tracking application with calorie tracking and AI-based chat support for lifestyle monitoring. Designed to help users build and maintain healthy habits through interactive features.
+A MERN-based notes application that allows users to create, edit, and manage notes with persistent storage. Built with a production-ready frontend and RESTful backend, including secure configurations and defensive UI handling.
 
-**Tech Stack:** `MERN` `Firebase` `Google Gemini AI`
+**Tech Stack:** `MongoDB` `Express.js` `React` `Node.js` `Render`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/malbroo96/HabitFlow-project)
-[![Live](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://habit-flow-new.vercel.app/login)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/manojgit18/Quick-Note-App)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://quick-note-app-fmzu.onrender.com/)
 
 </div>
 
